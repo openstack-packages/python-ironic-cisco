@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Haïkel Guémar <haikel.guemar@gmail.com>
+Submitted-by: Haïkel Guémar <haikel.guemar@gmail.com>
+Submitted-at: Mon, 01 Feb 2016 21:19:40 +0100
+Reviewed-on: https://review.gerrithub.io/261520
+Project: openstack-packages/python-ironic-cisco
+Branch: refs/heads/rpm-liberty
